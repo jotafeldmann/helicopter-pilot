@@ -229,3 +229,59 @@ Hit and Run, but not too far from home.
 - Avoid the main meat grinder — let the tanks and infantry trade in the center while you quietly take ground around them.
 - Watch for enemy air patrols — jets and attack choppers often sweep the backlines mid-game. Anticipate their routes and hug terrain to avoid being spotted.
 - Support your team’s advance — once a flank is open, use your mobility to reinforce pushes or cut off enemy reinforcements.
+
+## A word about jets
+
+Jets deserve respect.
+
+Right now, in Battlefield 6, they feel harder to use well than many players expect, but they are still one of the biggest threats to helicopters simply because of speed, angle of attack, and how fast they can appear, leave, and come back.
+
+For helicopter players, the main thing to understand is this:
+
+**you do not beat jets by chasing jets.**
+
+You beat them by:
+- staying low,
+- using terrain,
+- avoiding obvious flight paths,
+- and never hanging in the open longer than necessary.
+
+If a jet pilot knows where you are and has a clean line on you, the problem usually started earlier, with your positioning.
+
+Maps also feel a bit tight for air play, which means jet contact happens fast and often with little warning.  
+That makes route discipline even more important.
+
+Always keep one eye on the radar and one eye on the sky.  
+A jet is often dangerous before you even see it clearly, so the sooner you notice movement, direction, or a possible attack line, the better your chance to survive the first pass.
+
+What gives a jet a clear advantage over you is also part of its weakness.
+
+Its speed, attack line, and need to commit to a pass make it dangerous, but they also make it more predictable once the first attack begins.
+
+So the goal is not to panic and start throwing the helicopter around like crazy.
+
+The goal is to **survive the first hits, dodge the first pass, and stay alive long enough for the jet to continue its path**.
+
+Once the jet commits, gravity, speed, and angle usually carry it forward.  
+That is your moment.
+
+If you stay calm, keep control, and do not overreact, you can often let the jet overshoot, watch it follow its line, and then return fire while hovering more steadily and with better aim.
+
+In other words:
+
+**the jet wins the entry.  
+You win the recovery window.**
+
+For regular helicopter pilots, the rule is simple:
+
+- do not fly high unless there is a reason,
+- do not hover where the sky is wide open,
+- do not repeat the same approach too often,
+- survive the first pass,
+- and punish the overshoot if the chance appears.
+
+If you are flying transport, jets are one more reason to think like a moving spawn point instead of a hero vehicle.  
+If you are flying attack helicopter, jets are one more reason to make short attack windows, disappear again, and stay ready for the return pass.
+
+Jets are not just another enemy vehicle.  
+They are the reminder that the sky is never really yours.
