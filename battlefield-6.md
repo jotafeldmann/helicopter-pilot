@@ -1,6 +1,6 @@
 # 🚁 Helicopters guide for regular players
 
-**By j [heli pilot]**
+Original post at Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3584250226&tscn=1774054402
 
 Strap in, pilot!
 
