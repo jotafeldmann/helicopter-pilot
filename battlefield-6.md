@@ -137,6 +137,8 @@ Let’s see what the next update brings.
 - Switch camera views — cockpit for precision, chase for keeping an eye on incoming trouble.
 - Tweak your settings — sensitivity and dead zones can make the difference between smooth flying and doing barrel rolls into a tree.
 - Respect the lock-on beep — when it starts screaming, so should your evasive maneuvers.
+- Some maps have automatic anti-aircraft emplaced weapons: use as a resource when running from fools or when getting close to enemy's main base
+- Did it take a lot of damage and still survive? Just return to base (the big "H" in the ground) and give some time, the heli will recover. If you're feeling adventurous, join as an engineer, land the heli, and repair it.
 
 **HARD PERSONAL TIP:** We die with the heli — When Im playing like a pilot Ill die with my steel dragon. No return. No Bail out.
 
